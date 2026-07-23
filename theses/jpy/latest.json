@@ -1,0 +1,166 @@
+{
+"schema_version": "1.0",
+"review_id": "JPY-001-2026-07-23",
+"thesis_id": "JPY-001",
+"thesis_version": "2026-07",
+"thesis_name": "JPY Structural Investment Thesis",
+"review_date": "2026-07-23",
+"review_period_start": "2026-07-09",
+"review_period_end": "2026-07-23",
+"status": "intact",
+"thesis_health": {
+"current": 82,
+"previous": 82,
+"change": 0,
+"trend": "stable",
+"reason_code": "NO_ASSUMPTION_CHANGE",
+"reason": "No core thesis assumption materially changed during the review period."
+},
+"material_change": false,
+"decision": {
+"action": "no_change",
+"summary": "Maintain current thesis and continue monitoring BOJ, Fed, carry conditions, and confirmed intervention."
+},
+"key_developments": [
+{
+"title": "No BOJ policy regime change confirmed",
+"assumption_id": "A2",
+"assumption_name": "BOJ tightens gradually",
+"impact": "none",
+"direction": "supports",
+"materiality": "minor",
+"evidence_type": "fact"
+},
+{
+"title": "No confirmed sustained FX intervention",
+"assumption_id": "A4",
+"assumption_name": "No sustained intervention",
+"impact": "none",
+"direction": "supports",
+"materiality": "minor",
+"evidence_type": "fact"
+},
+{
+"title": "Carry conditions remain broadly intact",
+"assumption_id": "A3",
+"assumption_name": "Carry remains attractive",
+"impact": "none",
+"direction": "supports",
+"materiality": "minor",
+"evidence_type": "interpretation"
+},
+{
+"title": "No systemic funding stress identified",
+"assumption_id": "A5",
+"assumption_name": "Global markets remain stable",
+"impact": "none",
+"direction": "supports",
+"materiality": "minor",
+"evidence_type": "fact"
+},
+{
+"title": "Intervention rhetoric increased without confirmed structural policy shift",
+"assumption_id": "A4",
+"assumption_name": "No sustained intervention",
+"impact": "none",
+"direction": "neutral",
+"materiality": "minor",
+"evidence_type": "fact"
+}
+],
+"scorecard": [
+{
+"driver": "Federal Reserve remains relatively restrictive",
+"score": 5,
+"trend": "stable"
+},
+{
+"driver": "BOJ gradual normalization",
+"score": 5,
+"trend": "stable"
+},
+{
+"driver": "Carry trade attractiveness",
+"score": 5,
+"trend": "stable"
+},
+{
+"driver": "No sustained intervention",
+"score": 4,
+"trend": "stable"
+},
+{
+"driver": "Global market stability",
+"score": 4,
+"trend": "stable"
+},
+{
+"driver": "Japanese overseas capital flows",
+"score": 4,
+"trend": "stable"
+}
+],
+"assumptions_changed": [],
+"risks": [
+"Faster-than-expected BOJ tightening.",
+"Persistent carry-trade deleveraging.",
+"Repeated confirmed FX intervention.",
+"Global funding-market stress."
+],
+"research_candidates": [
+"MUFG",
+"Mitsubishi Corp.",
+"Toyota"
+],
+"portfolio_implications": {
+"overall": "No portfolio changes warranted. Structural thesis remains intact.",
+"favored_sectors": [
+"Trading houses",
+"Export manufacturers",
+"Global IP",
+"Banks"
+],
+"avoid": [
+"Import-cost-sensitive domestic retailers without pricing power"
+]
+},
+"next_decision_points": [
+"BOJ July policy meeting.",
+"Federal Reserve communications.",
+"Confirmed MOF intervention.",
+"Funding-market conditions."
+],
+"research_questions": [
+"Is BOJ guidance becoming materially more hawkish?",
+"Are U.S.-Japan yield spreads structurally narrowing?",
+"Is sustained capital repatriation emerging?"
+],
+"sources": [
+{
+"title": "Euro Extends Losses After ECB Keeps Rates Steady",
+"publisher": "Wall Street Journal",
+"url": "https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26",
+"published_date": "2026-07-23",
+"accessed_date": "2026-07-23"
+},
+{
+"title": "Japan shifts to ambush intervention tactics against yen short sellers",
+"publisher": "Reuters",
+"url": "https://www.investing.com/news/economy-news/exclusivejapan-shifts-to-ambush-intervention-tactics-against-yen-short-sellers-say-4772275",
+"published_date": "2026-07-02",
+"accessed_date": "2026-07-23"
+},
+{
+"title": "Japan keeps yen intervention threat alive",
+"publisher": "Reuters",
+"url": "https://www.marketscreener.com/news/japan-keeps-yen-intervention-threat-alive-says-in-close-touch-with-us-ce7f5fd3de8cf023",
+"published_date": "2026-07-03",
+"accessed_date": "2026-07-23"
+}
+],
+"publication": {
+"status": "draft",
+"approved_by": "",
+"approved_date": ""
+}
+}
