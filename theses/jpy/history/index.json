@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "thesis_id": "JPY-001",
+  "thesis_name": "JPY Structural Investment Thesis",
+  "latest_review_date": "2026-07-23",
+  "latest_file": "2026-07-23.json",
+  "review_count": 2,
+  "reviews": [
+    {
+      "review_id": "JPY-2026-07-23",
+      "date": "2026-07-23",
+      "file": "2026-07-23.json",
+      "status": "intact",
+      "thesis_health": 82,
+      "health_change": 0,
+      "trend": "stable",
+      "material_change": false,
+      "decision_action": "no_change",
+      "title": "JPY thesis remains intact"
+    },
