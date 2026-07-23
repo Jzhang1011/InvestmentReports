@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "thesis_id": "",
+  "thesis_name": "",
+  "review_date": "",
+  "review_period_start": "",
+  "review_period_end": "",
+  "status": "intact",
+  "thesis_health": {
+    "current": 0,
+    "previous": 0,
+    "trend": "stable",
+    "reason": ""
+  },
+  "material_change": false,
+  "decision": {
+    "action": "no_change",
+    "summary": ""
+  },
+  "key_developments": [],
+  "scorecard": [],
+  "assumptions_changed": [],
+  "risks": [],
+  "research_candidates": [],
+  "next_decision_points": [],
+  "research_questions": [],
+  "sources": [],
+  "publication": {
+    "status": "draft",
+    "reviewed_by": "",
+    "reviewed_date": ""
+  }
+}
